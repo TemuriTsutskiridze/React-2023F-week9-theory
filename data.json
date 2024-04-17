@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "todo": "Prepare for exams",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "todo": "Give a lecture",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "todo": "Go for swimming",
+      "completed": true
+    },
+    {
+      "todo": "Write a quizz",
+      "completed": false,
+      "id": 4
+    }
+  ]
+}
